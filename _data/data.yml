@@ -17,14 +17,14 @@ sidebar:
     phone: +33 6 52 01 90 85
     timezone: Europe/Paris 
     citizenship: French, Canadian
-    website: blog.webjeda.com #do not add http://
+    website: preau.org #do not add http://
     linkedin: vincentpreau
     xing: alandoe
     github: levincent
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@levincent'
+    twitter: '@le_vincent'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,7 +45,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Running, Tennis, Swimming, Yoga
           link:
 
         - item: Snowboarding
@@ -65,9 +65,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: IT Masters degree
+        university: EPSI Bordeaux
+        time: 2002 - 2005
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +76,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: IT Higher National Diploma / Certificate (DUT)
+        university: Université Bordeaux 1
+        time: 2000 - 2002
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum

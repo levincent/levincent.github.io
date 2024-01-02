@@ -13,18 +13,18 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: vincent@preau.org
+    phone: +33 6 52 01 90 85
+    timezone: Europe/Paris 
+    citizenship: French, Canadian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: vincentpreau
     xing: alandoe
-    github: sharu725
+    github: levincent
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@levincent'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,11 +33,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Fluent
 
         - idiom: Spanish
           level: Professional
@@ -57,12 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an experienced Program Manager and certified SAFe RTE. With over 17 years of experience in IT and digital transformation, I am known for my ability to manage large teams and budgets — up to 20 FTEs and $7M — being comfortable in both traditional and agile environments.
+      My Gallup strengths—restorative, individualization, relator, arranger, and deliberative—have been instrumental in my professional success, and are mirrored in my personal life: as an avid sport enthusiast, I have found that these strengths translate well into my ability to set and achieve ambitious goals. This discipline and focus extend into my professional endeavors, particularly in complex, international settings. 
 education:
     title: Education
     info:

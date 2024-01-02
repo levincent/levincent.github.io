@@ -48,10 +48,13 @@ sidebar:
         - item: Running, Tennis, Swimming, Yoga
           link:
 
-        - item: Snowboarding
+        - item: Cooking
           link:
 
-        - item: Cooking
+        - item: Photography
+          link:
+
+        - item: Hiking
           link:
 
 career-profile:
@@ -93,7 +96,7 @@ experiences:
     info:
       - role: Program Manager / SAFe RTE
         time: 2021 - Present
-        company: Beneva (Montréal, QC)
+        company: Beneva - Montréal, QC
         details: |
           In the context of the merging of the two initial entities – SSQ and La Capitale – Beneva decided to fully migrate its IT infrastructure to the cloud; 
           I am leading this flagship initiative through the different program streams: 
@@ -102,71 +105,109 @@ experiences:
             - lead the changes related to DevSecOps practices for product teams while they migrate their assets to the cloud (creation of a sub-initiative) and new governance (eg. FinOps, reference architecture and security)
             - lead the coordination with the provider (AWS), ensuring a smooth shift of ownership towards Beneva 
             - lead the creation of a SAFe Train that delivers upcoming technical features and services , while bringing more focus to governance and architecture to the mandate of the Cloud Center of Excellence (CCoE)
+          
           Budget: 7M$ over 2 years
+          
           Since mid-2023, I am acting as Program Manager for the Platform Engineering Program, from scratch: capacity planning, building the target roadmap, governance and integration within existing initiatives in the company.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Release Train Engineer
+        time: 2021 
+        company: Industrielle Alliance - Montréal, Qc
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I led the shift of the Data Management IT delivery team toward the SAFe framework, facilitating the change of practice and mindset under different streams: 
+            - Portfolio management: I facilitated the strategic deliveries ensuring communication to stakeholders/sponsors and dependency management with external teams 
+            - Smooth transition to SAFe: I facilitated the SAFe Agile Release Train, managing all the logistic around this transition by enabling (1) fluid internal & external communication through a new collaboration platform (SharePoint) (2) smarter squads collaboration with tailored SAFe agile ceremonies and (3) better evaluation around both agility of the team and delivery of value, automating a new set of metrics 
+            - I coached the key ART stakeholders (PM/Pos, SA, SMs) and facilitated the internal RTE CoP
+      - role: Team leader & SAFe Release Train Engineer
+        time: 2019 - 2021
+        company: Desjardins - Montréal, QC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As part of my SAFe RTE role, I managed 5 agile squads – which mostly delivers API gateway solutions to development teams – facilitating the delivery of our Program objectives and coaching the team toward continuous improvement (eg. CI/CD). 
+          I also held a Team leader position (~20 FTEs), with regular HR related responsibilities including - but not limited to - individual development plans, appraisals, recruitment and mobility management
+          Yearly HR budget for the team = ~5M$ 
+      - role: Team Leader (VP)
+        time: 2017 - 2019
+        company: BNP Paribas IT Solutions - Montréal, QC
+        details: |
+          “RaDAR” was a global internal program aiming at implementing Basel’s BCBS 239 directive (focused around risk data aggregation and risk reporting) through different streams: Third Party data, End User Computing, Shared Reporting Space (aligns Finance & Risk data), Data Quality Improvement Program.
+          - I built from scratch and managed a team of five full-time collaborators, setting objectives for each team player and stream ensuring adhesion with the global roadmap 
+          - I took care of the overall facilitation and follow-up, reporting to senior management (NAR CFO level)
+      - role: Project manager (AVP) 
+        time: 2015 - 2017
+        company: BNP Paribas IT Solutions - Montréal, QC
+        details: |
+          - I coordinated Finance/Risk related projects with a specific focus on the in-house Atlas2 ledger 
+          - I also co-managed the 2017 edition of the “Digital Week” in Canada (17 events, 360 unique participants)  
+      - role: Program Manager
+        time: 2013 - 2015
+        company: BNP Paribas CIB - Paris
+        details: |
+          I coordinated the implementation of a new central Inventory Management solution dedicated to the Irish subsidiary, facilitating both technical (eg. code audit, server delivery) and strategic topics (eg. definition of medium-term strategy based on business needs, steering committees to senior management and sponsors, TOM definition) 
+          - Total of 13 distributed teams, both in Europe (Dublin / Paris / Madrid / Brussels) and Mumbai.  
+          - Budget = ~1.5M€ 
+          - Methodology: CMMI or Agile framework depending on Program streams
+      - role: Project Manager
+        time: 2006 - 2013
+        company: BNP Paribas CIB, Trade Finance & Supply Chain - Paris
+        details: |
+          - 2010 to 2013: I managed projects related to Trade Finance tools: Connexis Trade (front office), CTPR (Invoice Financing, Supply Chain), and their interfaces with the global Back Office tools. I coordinated a team (4 FTEs) dedicated to the maintenance projects for the Front Office perimeter. 
+          - 2006 to 2010: I managed project on the internal ledger facilitating the delivery of optimization fixes 
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: AWS Certified Developer Associate (in progress)
+          start: 2023
+          end: 2024
+          organization: AWS
+          credentialid: 
+          credentialurl:
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Leading SAFe
+          start: 2021
+          end:
+          organization: SAFe
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Lean Six Sigma - Green belt
+          start: 2020
+          end:
+          organization: McGill University
+          credentialid: 
+          credentialurl:
+          credentialname: 
+          details: |
+
+        - name: SAFe RTE
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: SAFe
+          credentialid: 
+          credentialurl:
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+
+        - name: Blockchain for Business – introduction to Hyperledger Technologies
+          start: 2019
+          end:
+          organization: The Linux Foundation
+          credentialid: 7ed54451b8fc4ccdb51441abe4ecb8ac
+          credentialurl: https://courses.edx.org/certificates/7ed54451b8fc4ccdb51441abe4ecb8ac
+          credentialname: 
+          details: |
+
+        - name: SAFe RTE
+          start: 2019
+          end:
+          organization: SAFe
+          credentialid: 
+          credentialurl:
+          credentialname: 
+          details: |
 
 projects:
     title: Projects

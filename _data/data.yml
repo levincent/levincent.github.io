@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/18_X2HGKGXh92v7XBh7N0hKAz8GZAyoic/view?usp=drive_link
 
     languages:
       title: Languages
@@ -91,21 +91,19 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Program Manager / SAFe RTE
+        time: 2021 - Present
+        company: Beneva (Montréal, QC)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          In the context of the merging of the two initial entities – SSQ and La Capitale – Beneva decided to fully migrate its IT infrastructure to the cloud; 
+          I am leading this flagship initiative through the different program streams: 
+            - delivery of the technical foundations, with dedicated development & infrastructure teams 
+            - accountable for the overall change management: communication & training plans for all-level staff 
+            - lead the changes related to DevSecOps practices for product teams while they migrate their assets to the cloud (creation of a sub-initiative) and new governance (eg. FinOps, reference architecture and security)
+            - lead the coordination with the provider (AWS), ensuring a smooth shift of ownership towards Beneva 
+            - lead the creation of a SAFe Train that delivers upcoming technical features and services , while bringing more focus to governance and architecture to the mandate of the Cloud Center of Excellence (CCoE)
+          Budget: 7M$ over 2 years
+          Since mid-2023, I am acting as Program Manager for the Platform Engineering Program, from scratch: capacity planning, building the target roadmap, governance and integration within existing initiatives in the company.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London

@@ -17,17 +17,12 @@ sidebar:
     phone: +33 6 52 01 90 85
     timezone: Europe/Paris 
     citizenship: French, Canadian
-    website: preau.org #do not add http://
+    website: preau.org 
     linkedin: vincentpreau
     xing: alandoe
     github: levincent
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    telegram: Vincent63450
     twitter: '@le_vincent'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/18_X2HGKGXh92v7XBh7N0hKAz8GZAyoic/view?usp=drive_link
 
     languages:
@@ -45,13 +40,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Tennis, Triathlon, Hike
+        - item: Tennis, Triathlon, Hiking
           link:
 
         - item: Photography, Cooking
           link:
 
-        - item: Yoga & mindfulness
+        - item: Yoga, mindfulness
           link:
 
 career-profile:

@@ -204,23 +204,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: SAFe SA and RTE
+        level: 90%
+        
+      - name: Lean Six Sigma Green belt
+        level: 80%
+        
+      - name: Agile - Kanban & Scrum - frameworks
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Leading flagship and complex transversal programs 
+        level: 90%
+
+      - name: Leading large teams
+        level: 90%
+
+      - name: CMMI framework
+        level: 70%
+        
+      - name: Portfolio management
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
